@@ -1,14 +1,27 @@
-# Estudos Angular
-Desafio de projeto DIO do bootcamp Santander Full Stack: Criando um página de e-commerce de livros.
+# SkoobStore
 
-## Barra de pesquisa da página:
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
-![chrome-capture-2022-6-19](https://user-images.githubusercontent.com/101780645/179656299-ffbefbb7-362a-4de3-a18f-a08646034c56.gif)
+## Development server
 
-## Conteúdo da página:
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-![apresentacao2](https://user-images.githubusercontent.com/101780645/179656479-cfeceda0-3b7b-4b01-8277-db3ebdea9c0d.gif)
+## Code scaffolding
 
-## Página de login:
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-![login](https://user-images.githubusercontent.com/101780645/179655688-ff79def7-4f86-4d3c-aa2e-1b7a580cfee5.png)
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
