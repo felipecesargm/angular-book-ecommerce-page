@@ -1,16 +1,16 @@
 # Desafio de projeto DIO - Bootcamp Santander: Criar um front de um e-commerce. 
 
-# SkoobStore
+## SkoobStore
 
-## Barra de pesquisa da página:
+### Barra de pesquisa da página:
 
 ![chrome-capture-2022-6-19](https://user-images.githubusercontent.com/101780645/179869145-ac47e6ea-ef1f-41cb-accf-cb907c19ff24.gif)
 
-## Conteúdo da página:
+### Conteúdo da página:
 
 ![apresentacao2](https://user-images.githubusercontent.com/101780645/179869162-e6f5c672-16cf-4838-8888-d29891080c44.gif)
 
-## Página de loguin:
+### Página de login:
 
 ![login](https://user-images.githubusercontent.com/101780645/179869176-e352ec14-7bca-4042-a450-365cfccaded3.png)
 
